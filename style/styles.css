@@ -187,8 +187,9 @@ nav{
 }
 .banner-works a{
     text-decoration: none;
+    
     color: #FFFFFF;
-    padding: 16px 16px 16px 46px;
+    padding: 16px 16px 16px 16px;
 
 }
 .banner-works a:hover{
@@ -237,6 +238,9 @@ nav{
     box-shadow: 0 0 8px #00000049;
     border-radius: 8px;
 }
+
+
+
 .card img{
     margin-left:70px ;
     width: 30px;
